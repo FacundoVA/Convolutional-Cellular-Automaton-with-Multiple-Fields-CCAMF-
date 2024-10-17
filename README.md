@@ -9,6 +9,7 @@ This project isn’t just about making another cellular automaton—it’s an ex
 Imagine a world where simulations could evolve to reveal behaviors we’ve never seen, helping us understand not only the world we live in but alternate possibilities. **CCAMF** aims to become a flexible simulation playground—a place where complexity can unfold naturally, not just through pre-written rules, but through the interactions between multiple layers of evolving systems.
 
 
+![Uploading c4 - Made with Clipchamp.gif…]()
 
 
 ---
