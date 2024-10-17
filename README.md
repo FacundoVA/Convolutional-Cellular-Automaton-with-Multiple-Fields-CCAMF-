@@ -27,6 +27,11 @@ The potential is enormous:
 - What if we find new ways to simulate fluid dynamics or gravity?
 - Could we stumble upon new mathematical models of nature just by experimenting?
 - What if the rules that govern reality itself are hidden in one of these parameter spaces?
+- 
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/9d7b7419-7747-48f7-9398-10682fc86df6)
+
+
 
 ---
 
@@ -41,6 +46,10 @@ At the heart of CCAMF are **multiple interacting fields**, each evolving over ti
 
 What makes this exciting is that **the rules aren’t fixed**—they are emergent. Change the kernel slightly, and you can move from a system that looks like stable gravity to one that exhibits turbulence or ripple effects. This fluidity allows CCAMF to act as a sandbox for experimenting with **patterns, behaviors, and dynamics**.
 
+
+![c1 - Made with Clipchamp](https://github.com/user-attachments/assets/5595a2aa-57e0-467d-b210-98d18b3831d5)
+
+
 ---
 
 ## **Building Toward a Searchable Sandbox of Universes**
@@ -53,6 +62,11 @@ This opens up endless possibilities:
 - **Explore alternate rulesets**: With each kernel configuration acting as a new universe of rules, the potential for discovery is endless.
 
 The vision for CCAMF is to become **a general-purpose simulation framework**, flexible enough to explore **any dynamics** we can imagine. The only limit is how far we can take the exploration—and with search algorithms guiding the way, we may uncover more than we expect.
+
+
+![c3 - Made with Clipchamp](https://github.com/user-attachments/assets/022d768d-dcae-4d1b-8851-382fcb5aa338)
+
+
 
 ---
 
