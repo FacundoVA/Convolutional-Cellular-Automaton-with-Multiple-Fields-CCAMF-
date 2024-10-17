@@ -95,6 +95,9 @@ Run the simulator:
 bash
 Copiar código
 python CCAMF.py
+
+---
+
 How to Use the Simulator
 Spacebar: Play/Pause the simulation.
 Right Arrow: Step through the simulation one frame at a time.
