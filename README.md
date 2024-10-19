@@ -26,8 +26,7 @@ The key to CCAMF’s power lies in its **searchable space of possibilities**. Ea
 The potential is enormous: 
 - What if we find new ways to simulate fluid dynamics or gravity?
 - Could we stumble upon new mathematical models of nature just by experimenting?
-- What if the rules that govern reality itself are hidden in one of these parameter spaces?
-- 
+
 
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/9d7b7419-7747-48f7-9398-10682fc86df6)
 
